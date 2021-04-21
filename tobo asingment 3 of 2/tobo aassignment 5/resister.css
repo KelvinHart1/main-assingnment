@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:'merriweather sans', sans-serif ;
+    background-color: rgba(53, 146, 233, 0.972);
+    padding: 100px 100px;
+}
+.con{
+    background-color:rgb(246, 237, 237);
+    width: 400px;
+    height: 610px;
+    padding: 4%;
+    margin: auto;
+}
+h3{
+
+    margin-bottom:60px;
+    margin-top:2px ;
+}
+.acc
+{
+background-color:none;
+margin-bottom: 20%;
+
+}
+.email{
+background-color:none;
+margin-top: 5%;
+}
+
+.a{
+    background-color: none;
+    margin-bottom: 5%;
+    margin-right:50px;
+}
+p{
+    color: rgb(25, 25, 255);
+    padding-left:40%;
+    margin-top: 20px;
+
+}
+input{
+    background-color:none;
+    margin-left: 5%;
+    width:90% ;
+    padding: 2.5%;
+    color: none;
+    border: none;
+} 
+.inputs{
+    background-color:none;
+    margin-bottom: 20% ;
+    margin-left: 5%;
+    width:90% ;
+    padding: 2.5%;
+    color: none;
+    border: none;
+} 
+
+
+.logins{
+    margin: 4%;
+    padding:8px ;
+    width: 90%;
+    background-color: rgb(24, 24, 245);
+    color: white;
+}
+.h5{
+    text-align: center;
+    margin: auto;
+    color: white;
+}
+.one{
+    margin: auto;
+}
+
+.out{
+    background-color: gold;
+margin-left: 25%;
+}
+.new{background-color:none;
+margin-top: 2%;
+margin-left: 40%;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin-top: 20%;
+}
+.password{background-color:none;
+margin-top: 5%;
+}
+.box{
+    margin-left: 40%;
+    margin-top: -50%;
+}
+.ac{
+margin-right: 50%;
+}
+.inputstext{
+    margin-top: -10px;
+    outline: none;
+}
+.b{
+    text-decoration: none;
+    margin-top: 10%;
+}
+.c{
+    text-decoration: none;
+margin-top: 10%;
+}
+.agree{
+background-color:none;
+margin-top: 30px;
+height: 50px;
+}
+.check{
+    margin-right: 289px;
+    
+}
+
+h4.to{
+    color:black;
+    margin-top: -5%;
+    margin-left: 12%;
+    font-size:13px;
+    margin-bottom: 5px;
+
+}
+.link
+{font-size:14px;
+  color: blue; 
+  margin-left: 12%;
+
+
+}
+button{
+    margin-left: 18px;
+    margin-top: 20px;
+    padding:auto;
+    height: 40px; ;
+    width: 90%;
+    background-color: blue;
+    color:white;
+    border: none;
+}
+

@@ -1,0 +1,91 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.box{
+   background-color: rgba(241, 241, 241, 0.808);
+   height: 50px;
+   border: none;
+   border-radius: 5px;
+   margin-left: 60px;
+   width: 1100px;
+   margin-top: -11px;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.title{
+    margin-left: 4.5%;
+    margin-top: -3.5%;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.list1 {
+    display: inline;
+    padding-right: 10px;
+}
+.list2{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.menu{
+    float:right;
+    margin-right: 60%;
+    margin-top: -3.2%;
+}
+h2{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.studentbox{
+    margin-top: 60px;
+    background-color: rgb(231, 237, 240);
+    width: 320px;
+    height: 220px;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 60px;
+}
+.koko{
+
+}
+.form{
+    margin-top: 1%;
+}
+.form .form-control{
+    width: 298px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.form2{
+    margin-top: 20px;
+}
+.form2 .form-control{
+    width: 298px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.login2{
+    margin-top: 20px;
+    width: 70px;
+    height: 30px;
+    background-color: rgb(51, 105, 206);
+    border: none;
+    color: white;
+    font-size: 12px;
+    font-family: sans-serif;
+    border-radius: 12%;
+}
+.login3{
+    text-decoration: none;
+}
+.komo{
+    margin-top: 30px;
+    margin-left: 60px;
+}

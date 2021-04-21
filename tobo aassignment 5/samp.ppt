@@ -1,0 +1,26 @@
+ <div claas="one">
+         <form>
+
+        <div class="a" > <label for="company Name">Company Name</label></div>
+        <div class="name">
+     <input type="" ><input class="box" type="checkbox" >
+     </div>
+                <div class="a" > <label for="your Name">Your Name</label></div>
+               <div class="inputs"> <input type="text"  placeholder="othre Banker" ></div></div>
+                
+                    <div class="email">
+                        <div class="a" > <label for="email">Email Address</label></div>
+                       <div class="email"> <input type="email"  placeholder="email@example.org" ></div></div>
+                        
+
+            <div class="a" > <label for="password">password</label></div>
+             <input type="password" placeholder="********"></div>
+             <div class="name">
+            
+              <p><input type="checkbox"> To Register with us please to agree to our <p><a href="#"> Terms and condition</a> </p></a></div>
+                <div class></p>
+
+        <button type="submit" class="logins">Register</button>
+    </div>
+    </form>
+     </div>
