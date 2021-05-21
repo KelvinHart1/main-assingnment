@@ -1,0 +1,151 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;   
+}
+#wrapper {
+ width: 70%;
+ margin: 0 auto;
+}
+#log {
+    margin: 0 auto;
+}
+#log .EreBlog {
+  color: rgb(250, 7, 7);
+  font-weight: bolder;
+ text-align: center;
+ font-size: xx-large;
+}
+#log .subscribe{
+    text-align: center;
+    margin-top:-40px;
+}
+#main-navigation{
+    padding: 10px;
+    background-color: red;
+}
+#main-navigation ul {
+ text-align: right ;
+ list-style-type: none;
+ text-decoration: none;
+}
+#main-navigation li {
+    display:inline-block;
+    margin: 20px;
+    margin-left: 20px ;
+}
+#main-navigation li a {
+text-decoration: none;
+text-transform: uppercase;
+color: white;
+border-bottom: 1px solid white;
+}
+.current1 {
+    background-color: black;
+    border-radius: 4px;
+    padding: 10%;
+}
+.mains{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#mcard {
+    width:100%;
+    height: auto;
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+.card {
+    margin-top: 10px;
+    width: 40%;
+    height: 550px;
+    border-radius: 15px;
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 2px 2px gray;
+} 
+
+.td{
+    display: inline;
+    margin-left: 12px;
+}
+
+
+.card img{
+    height: 60%;
+    width: 100%;
+    margin-bottom: 10px;
+    background-size: cover;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px; 
+}
+.techology button {
+    background-color: red;
+    text-transform: uppercase;
+    color: white;
+    margin: auto;
+    font-weight: lighter;
+    font-size: small;
+    border-radius: 5px;
+    border: none;
+    padding: 7px;
+}
+.date{
+    text-transform: uppercase;
+    font-size: small;
+}
+.title{
+    text-transform:capitalize;
+    text-align: center;
+    font-weight:bolder;
+    font-size: large;
+    margin: 20px 0px ;
+}
+.note{
+    text-transform: capitalize;
+    font-weight: normal;
+    color: darkgray;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.more a {
+    text-decoration:  none;
+    color: gray;
+    border-bottom: 1px solid red;
+}
+.more a:hover{
+    color: white;
+    background-color: red;
+    padding: 7px;
+    border-radius: 5px;
+}
+.more{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#other {
+    margin-left: 43%;
+    margin-bottom: 10%;
+}
+#other h3 {
+    font-weight: bolder; 
+    font-size: xx-large;
+    text-transform: capitalize;
+    margin-left: 53px;
+}
+
+#other input {
+    padding: 5px;
+    margin-left: -1px;
+    width: 40%;
+}
